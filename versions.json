@@ -1,1 +1,22 @@
 
+{
+	"release_types":["beta","public"],
+	"platforms":["win32"],
+	"latest":{
+		"public":{
+			"win32":1
+		},
+		"beta":{}
+	},
+	"releases":{
+		"public":{
+			"win32":{
+				"1":{
+					"file":"public_win32_1.bin",
+					"desc":"Inital Version"
+				}
+
+			}
+		}
+	}
+}
