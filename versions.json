@@ -11,7 +11,7 @@
 		"public":{
 			"win32":{
 				"1":{
-					"file":"public_win32_1.bin",
+					"file":"update.bin",
 					"desc":"Inital Version",
 					"hrv":"1.0"
 				}
